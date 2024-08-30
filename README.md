@@ -1,4 +1,4 @@
-# MANAGED SETTINGS issue tracker 
+# MANAGED INFO issue tracker 
 
 This here humble repository contains no application source code. Sorry to disappoint.
 
