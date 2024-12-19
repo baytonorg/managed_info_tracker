@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help improve MANAGED SETTINGS
+about: Create a report to help improve MANAGED INFO
 title: 'Issue: '
 labels: bug
 assignees: jasonbayton
@@ -30,7 +30,7 @@ If applicable, add screenshots to help explain your problem.
  - Device: [e.g. Pixel 8]
  - OS: [e.g. Android 14]
  - OS build: [open About device from MANAGED SETTINGS, and look for software build number]
- - MANAGED SETTINGS Version [Tap the menu button, provide version number and version code]
+ - MANAGED INFO Version [Tap the menu button, provide version number and version code]
 
 **Additional context**
 Add any other context about the problem here.
